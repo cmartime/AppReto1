@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">AppReto1</string>
+
+    //string MainActivity
+    <string name="text_Name">NOMBRE:</string>
+    <string name="text_LastName">APELLIDO:</string>
+    <string name="text_Document">DOCUMENTO:</string>
+    <string name="text_btnOk">ENVIAR</string>
+    <string name="text_Regis_main_activity">REGISTRO</string>
+
+    //string MainActivity2
+    <string name="text_btnVolver">VOLVER</string>
+    <string name="text_main_activity2">PANTALLA PRINCIPAL</string>
+
+
+</resources>
